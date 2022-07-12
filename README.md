@@ -32,3 +32,4 @@ Generate API key from : http://www.omdbapi.com/apikey.aspx
 ## Steps to run 
   Cd react-app
   * npm start command to run the app 
+  * After display of the web page in any default browser(ex-chrome),go to the search bar and type any specific movie name and get whole details about the movie.
