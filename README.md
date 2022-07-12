@@ -33,3 +33,7 @@ Generate API key from : http://www.omdbapi.com/apikey.aspx
   Cd react-app
   * npm start command to run the app 
   * After display of the web page in any default browser(ex-chrome),go to the search bar and type any specific movie name and get whole details about the movie.
+## error
+* if it shows (*'react-scripts' is not recognized as an internal or external command,
+operable program or batch file.)
+please use # npm install react-scripts * to install that package
